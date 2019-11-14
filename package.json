@@ -1,6 +1,6 @@
 {
   "name": "ember-changeset-validations",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Validations for ember-changeset",
   "keywords": [
     "ember-addon",
@@ -25,7 +25,7 @@
     "test:all": "ember try:each"
   },
   "dependencies": {
-    "ember-changeset": "^2.2.1",
+    "ember-changeset": "2.2.1",
     "ember-cli-babel": "^7.1.2",
     "ember-cli-htmlbars": "^3.0.0",
     "ember-get-config": "^0.2.4",
